@@ -1,14 +1,17 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace MinimumCoinForChangeKata
 {
-    public class Program
+    public interface IUtilities
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+        bool CheckIfUserInputIsValid(string numb);
+        double ConvertStringToNumber(string numb);
 
+    }
+    public class Utilities : IUtilities
+    {
         public bool CheckIfUserInputIsValid(string numb)
         {
             bool result = true;
@@ -21,6 +24,11 @@ namespace MinimumCoinForChangeKata
                 result = false;
             }
             return result;
+        }
+
+        public double ConvertStringToNumber(string userInput)
+        {
+            return Convert.ToDouble(userInput);
         }
     }
 }
