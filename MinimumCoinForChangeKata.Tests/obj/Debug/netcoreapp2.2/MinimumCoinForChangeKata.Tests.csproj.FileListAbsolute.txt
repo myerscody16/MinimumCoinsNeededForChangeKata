@@ -1,0 +1,17 @@
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata.Tests\bin\Debug\netcoreapp2.2\MinimumCoinForChangeKata.Tests.deps.json
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata.Tests\bin\Debug\netcoreapp2.2\MinimumCoinForChangeKata.Tests.runtimeconfig.json
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata.Tests\bin\Debug\netcoreapp2.2\MinimumCoinForChangeKata.Tests.runtimeconfig.dev.json
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata.Tests\bin\Debug\netcoreapp2.2\MinimumCoinForChangeKata.Tests.dll
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata.Tests\bin\Debug\netcoreapp2.2\MinimumCoinForChangeKata.Tests.pdb
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata.Tests\bin\Debug\netcoreapp2.2\MinimumCoinForChangeKata.dll
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata.Tests\bin\Debug\netcoreapp2.2\MinimumCoinForChangeKata.pdb
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata.Tests\obj\Debug\netcoreapp2.2\MinimumCoinForChangeKata.Tests.csprojAssemblyReference.cache
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata.Tests\obj\Debug\netcoreapp2.2\MinimumCoinForChangeKata.Tests.csproj.CoreCompileInputs.cache
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata.Tests\obj\Debug\netcoreapp2.2\MinimumCoinForChangeKata.Tests.AssemblyInfoInputs.cache
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata.Tests\obj\Debug\netcoreapp2.2\MinimumCoinForChangeKata.Tests.AssemblyInfo.cs
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata.Tests\obj\Debug\netcoreapp2.2\MinimumCoinForChangeKata.Tests.csproj.CopyComplete
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata.Tests\obj\Debug\netcoreapp2.2\MinimumCoinForChangeKata.Tests.dll
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata.Tests\obj\Debug\netcoreapp2.2\MinimumCoinForChangeKata.Tests.pdb

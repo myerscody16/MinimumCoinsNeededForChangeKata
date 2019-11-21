@@ -1,0 +1,11 @@
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata\bin\Debug\netcoreapp2.2\MinimumCoinForChangeKata.deps.json
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata\bin\Debug\netcoreapp2.2\MinimumCoinForChangeKata.runtimeconfig.json
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata\bin\Debug\netcoreapp2.2\MinimumCoinForChangeKata.runtimeconfig.dev.json
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata\bin\Debug\netcoreapp2.2\MinimumCoinForChangeKata.dll
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata\obj\Debug\netcoreapp2.2\MinimumCoinForChangeKata.csprojAssemblyReference.cache
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata\obj\Debug\netcoreapp2.2\MinimumCoinForChangeKata.csproj.CoreCompileInputs.cache
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata\obj\Debug\netcoreapp2.2\MinimumCoinForChangeKata.AssemblyInfoInputs.cache
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata\obj\Debug\netcoreapp2.2\MinimumCoinForChangeKata.AssemblyInfo.cs
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata\bin\Debug\netcoreapp2.2\MinimumCoinForChangeKata.pdb
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata\obj\Debug\netcoreapp2.2\MinimumCoinForChangeKata.dll
+C:\Users\myers\source\repos\MinimumCoinForChangeKata\MinimumCoinForChangeKata\obj\Debug\netcoreapp2.2\MinimumCoinForChangeKata.pdb
